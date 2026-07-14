@@ -1,4 +1,4 @@
-## Hi there 👋
+![MAFK](banner.png)
 
 <!--
 **MAFK7/MAFK7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
