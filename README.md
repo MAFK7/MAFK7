@@ -1,5 +1,10 @@
 ![Asad Farhan](img/banner.png)
 
+###
+
+<div data-importer="music" align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
 #### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@asd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hann) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@han) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hann@gmail.com) 
@@ -9,8 +14,15 @@
 #### 📊 GitHub Stats:
 
 ![](https://streak-stats.demolab.com/?user=MAFK7&theme=dark&hide_border=false)<br/>
+
+<img data-importer="image" align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5idzl4cWdlNWgwdjlybnpiajk2Y3hrbWRuYnN1dHluYzI4MGNoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r4YpXPAljX0iMspcL3/giphy.gif"  />
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MAFK7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br clear="both">
+###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/MAFK7/MAFK7/snake-output/snake.svg" alt="Snake animation" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MAFK7/MAFK7/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MAFK7/MAFK7/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MAFK7/MAFK7/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
